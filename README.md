@@ -6,8 +6,8 @@ This repository showcases a **100% custom-built Sankey Diagram** created entirel
 
 The visualization maps the user acquisition flow from **Marketing Channels** (e.g., Organic SEO, Meta Ads) to **Device Types** (e.g., iOS, Android, Web). It demonstrates advanced Tableau engineering techniques to create mathematically perfect, smooth S-curves for data storytelling.
 
-!<img width="1687" height="1111" alt="Screenshot 2026-04-09 at 7 48 42 PM" src="https://github.com/user-attachments/assets/162b91fa-da1d-444f-a92a-171ae1be2e74" />
- *(Note: Please replace `dashboard_preview.png` with your actual screenshot filename before committing)*
+<img width="1687" height="1111" alt="Screenshot 2026-04-09 at 7 48 42 PM" src="https://github.com/user-attachments/assets/162b91fa-da1d-444f-a92a-171ae1be2e74" />
+ 
 
 ## 🚀 Technical Highlights & Advanced Techniques
 
