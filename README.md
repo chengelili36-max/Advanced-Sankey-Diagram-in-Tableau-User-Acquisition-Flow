@@ -6,8 +6,8 @@ This repository showcases a **100% custom-built Sankey Diagram** created entirel
 
 The visualization maps the user acquisition flow from **Marketing Channels** (e.g., Organic SEO, Meta Ads) to **Device Types** (e.g., iOS, Android, Web). It demonstrates advanced Tableau engineering techniques to create mathematically perfect, smooth S-curves for data storytelling.
 
-<img width="1687" height="1111" alt="Screenshot 2026-04-09 at 7 48 42 PM" src="https://github.com/user-attachments/assets/162b91fa-da1d-444f-a92a-171ae1be2e74" />
- 
+<img width="1449" height="936" alt="Screenshot 2026-04-09 at 7 56 23 PM" src="https://github.com/user-attachments/assets/d6a4e30f-f868-4a9b-a775-c5d9f943ea22" />
+
 
 ## 🚀 Technical Highlights & Advanced Techniques
 
@@ -30,7 +30,7 @@ Building a true Sankey Diagram natively in Tableau requires bypassing standard c
 1. Clone or download this repository.
 2. Ensure you have **Tableau Desktop** or **Tableau Public** installed on your machine.
 3. Open the `Marketing_Sankey_Dashboard.twbx` file.
-4. *(Optional)* Alternatively, you can view the live interactive version on my Tableau Public profile here: [Insert Your Tableau Public Link Here]
+4. Alternatively, you can view the live interactive version on my Tableau Public profile here: [https://public.tableau.com/app/profile/chenge.li3102/vizzes]
 
 ## 💡 Use Case
 This specific dashboard is designed for Growth and Marketing teams to instantly identify which user acquisition channels are driving traffic to specific platforms, aiding in budget allocation and conversion rate optimization (CRO).
